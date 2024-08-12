@@ -31,7 +31,7 @@
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
-git clone https://github.com/maryarezvani/todo-app
+git clone git@github.com:MaryaRezvani/to-do-list-app-with-Django.git
 ```
 
 ### Getting ready
